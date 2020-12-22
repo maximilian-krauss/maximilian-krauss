@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My Name is Max. I work as Senior Backend Engineer [@share-now](https://github.com/sharenowTech) and draft and create node.js services. In my spare time I started developing [iOS Apps](https://max.krauss.io/fastbackward).
+
 <!--
 **maximilian-krauss/maximilian-krauss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
