@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Name is Max. I work as Senior Backend Engineer DB Systel and draft and create node.js services. In my spare time I started developing [iOS Apps][(https://max.krauss.io/fastbackward](https://krausshalt.com/apps/fastbackward).
+My Name is Max. I work as Senior Backend Engineer DB Systel and draft and create node.js services. In my spare time I started developing [iOS Apps](https://krausshalt.com/apps/fastbackward).
 
 <!--
 **maximilian-krauss/maximilian-krauss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
